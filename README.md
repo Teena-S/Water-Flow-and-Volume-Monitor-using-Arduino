@@ -2,6 +2,10 @@
 
 A smart Arduino-based system to **measure real-time water flow rate (L/min)** and **total volume (Liters)** using a water flow sensor. Ideal for smart irrigation, water management, and industrial flow monitoring.
 
+---
+
+## 🎥 Demo Video
+![Watch the demo](demo/waterflowmeter.mp4)
 
 ---
 
