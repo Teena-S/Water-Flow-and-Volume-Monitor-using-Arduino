@@ -5,7 +5,7 @@ A smart Arduino-based system to **measure real-time water flow rate (L/min)** an
 ---
 
 ## 🎥 Demo Video
-![Watch the demo](demo/waterflowmeter.mp4)
+![Watch the demo](waterflowmeter.mp4)
 
 ---
 
